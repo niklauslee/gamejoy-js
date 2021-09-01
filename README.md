@@ -13,8 +13,8 @@ https://kaluma.io/@niklauslee/gamejoy-js
 
 Here you can download 3D model files (.stl) and KiCAD PCB project (schematic, artwork and gerber).
 
-![img1](https://github.com/niklauslee/gamejoy-js/blob/master/image/img1.jpg?raw=true)
+![img1](https://github.com/niklauslee/gamejoy-js/blob/main/image/img1.jpg?raw=true)
 
-![img2](https://github.com/niklauslee/gamejoy-js/blob/master/image/img2.jpg?raw=true)
+![img2](https://github.com/niklauslee/gamejoy-js/blob/main/image/img2.jpg?raw=true)
 
-![img3](https://github.com/niklauslee/gamejoy-js/blob/master/image/img3.jpg?raw=true)
+![img3](https://github.com/niklauslee/gamejoy-js/blob/main/image/img3.jpg?raw=true)
