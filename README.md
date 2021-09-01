@@ -1,6 +1,6 @@
 # GamejoyJS
 
-An DIY gaming console programmable with JavaScript.
+Retro-style game console programmable with JavaScript.
 
 - RP2040([Raspberry Pi Pico](https://www.raspberrypi.org/products/raspberry-pi-pico/))-based
 - [Kaluma](https://kaluma.io) is used for JavaScript runtime for MCU.
