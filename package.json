@@ -1,8 +1,6 @@
 {
   "scripts": {
-    "flash": "kaluma",
-    "build": "kaluma bundle ./src/tetris.js",
-    "esbuild": "esbuild ./src/tetris.js --bundle --outfile=bundle.js --external:graphics"
+    "build": "kaluma bundle ./src/tetris.js"
   },
   "dependencies": {
     "buzzer-music": "git+https://github.com/niklauslee/buzzer-music.git",
