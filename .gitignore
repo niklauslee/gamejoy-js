@@ -1,5 +1,8 @@
 .DS_Store
 
+# Kaluma
+bundle.js
+
 # Logs
 logs
 *.log

@@ -1,9 +1,5 @@
 # GamejoyJS
 
-![colors](https://github.com/niklauslee/gamejoy-js/blob/main/images/colors.jpg?raw=true)
-
-![size](https://github.com/niklauslee/gamejoy-js/blob/main/images/size.jpg?raw=true)
-
 ## Overview
 
 A retro-style game console programmable with JavaScript.
@@ -15,6 +11,11 @@ A retro-style game console programmable with JavaScript.
 - TP4056 charger with 500mAh LiPo battery
 - PCB designed by KiCAD
 - 3D-printed case (PLA)
+
+
+![colors](https://github.com/niklauslee/gamejoy-js/blob/main/images/colors.jpg?raw=true)
+
+![size](https://github.com/niklauslee/gamejoy-js/blob/main/images/size.jpg?raw=true)
 
 # Components
 
