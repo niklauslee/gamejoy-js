@@ -12,10 +12,13 @@ A retro-style game console programmable with JavaScript.
 - PCB designed by KiCAD
 - 3D-printed case (PLA)
 
-
 ![colors](https://github.com/niklauslee/gamejoy-js/blob/main/images/colors.jpg?raw=true)
 
 ![size](https://github.com/niklauslee/gamejoy-js/blob/main/images/size.jpg?raw=true)
+
+__YouTube__
+
+[![Video](http://img.youtube.com/vi/LLxr6f_XCAQ/0.jpg)](https://youtu.be/LLxr6f_XCAQ?t=0s)
 
 # Components
 
